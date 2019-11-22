@@ -1,0 +1,5 @@
+baseurl: /ceshi
+author: 木子z
+
+plugins: [jekyll-paginate]
+paginate: 4
